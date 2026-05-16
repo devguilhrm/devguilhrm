@@ -1,19 +1,53 @@
 <div align="center">
-  <img width="240" src="https://i.pinimg.com/originals/4a/33/a8/4a33a871184d47ca635d29b175254bc3.gif" />
+  <img width="500" src="https://i.pinimg.com/originals/4a/33/a8/4a33a871184d47ca635d29b175254bc3.gif" />
   <h1>Guilherme Lima</h1>
-  <p>Backend Software Engineer</p>
+  <p>Software Engineer</p>
 </div>
 
 ---
 
 <div align="center">
 
+## Currently Studying
+
+<table>
+<tr>
+<td>🐧 Linux</td>
+<td>🔒 Security</td>
+<td>🌐 Networking Engineering</td>
+</tr>
+
+<tr>
+<td>⚙️ Operational Systems</td>
+<td>🛡️ Incident Response</td>
+<td>🖥️ System Administration</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
 ### Tech Stack
 
-| Backend | Database | Frontend | Tools & Infra |
-|:-:|:-:|:-:|:-:|
-| ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![NestJS](https://skillicons.dev/icons?i=nestjs) | ![Postgres](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)  | ![React](https://skillicons.dev/icons?i=react) ![Angular](https://skillicons.dev/icons?i=angular) ![Tailwind](https://skillicons.dev/icons?i=tailwind) | ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) ![Python](https://skillicons.dev/icons?i=py) |
-| Java · Spring Boot · JPA · Kotlin · NestJS | PostgreSQL · MySQL · MongoDB · SQLite | React · Angular · Tailwind · CSS3 | Git · Linux · Python |
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MariaDB](https://skillicons.dev/icons?i=mariadb)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![DynamoDB](https://skillicons.dev/icons?i=dynamodb)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+![React](https://skillicons.dev/icons?i=react)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Python](https://skillicons.dev/icons?i=py)
 
 </div>
 
@@ -34,4 +68,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
+  <a href="https://www.instagram.com/glhrm.lima/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </div>
