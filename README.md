@@ -92,8 +92,8 @@ Infrastructure management and server configuration.
 ## Tech Stack
 
 <p align="center">
-<img 
-  src="https://skillicons.dev/icons?i=java,spring,kotlin,nestjs,ts,js,react,angular,tailwind,postgres,mysql,mongodb,sqlite,prisma,docker,git,linux&perline=9"
+  <img 
+  src="https://skillicons.dev/icons?i=java,spring,nestjs,ts,js,react,angular,tailwind,postgres,mysql,mongodb,sqlite,prisma,docker,kafka,git,linux,kali&perline=9"
 />
 </p>
 
