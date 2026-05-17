@@ -1,74 +1,150 @@
-<div align="center">
-  <img width="500" src="https://i.pinimg.com/originals/4a/33/a8/4a33a871184d47ca635d29b175254bc3.gif" />
-  <h1>Guilherme Lima</h1>
-  <p>Software Engineer</p>
-</div>
-
----
-
-<div align="center">
-
-## Currently Studying
-
-<table>
+<table width="100%">
 <tr>
-<td>🐧 Linux</td>
-<td>🔒 Security</td>
-<td>🌐 Networking Engineering</td>
-</tr>
 
-<tr>
-<td>⚙️ Operational Systems</td>
-<td>🛡️ Incident Response</td>
-<td>🖥️ System Administration</td>
+<td width="55%" valign="middle">
+
+# Guilherme Lima
+
+### Software Engineer · Computer Science Student
+
+> FullStack • CyberSecurity • Linux • SOC Enthusiast
+
+Experienced in building scalable FullStack systems with  
+**Spring Boot**, **NestJS**, **Angular**, **React** and AI Solutions.
+
+Currently focused on **Cybersecurity**, infrastructure,  
+incident response, and secure large-scale systems.
+
+Certified by **IBSEC** in DevSecOps and CyberSecurity.
+
+</td>
+
+<td width="45%" align="right">
+
+<img 
+  src="https://giffiles.alphacoders.com/171/171318.gif"
+  width="100%"
+/>
+
+</td>
+
 </tr>
 </table>
 
-</div>
+---
 
-<div align="center">
+## Currently Studying
 
-### Tech Stack
+<table width="100%">
+<tr>
 
-![Java](https://skillicons.dev/icons?i=java)
-![Spring](https://skillicons.dev/icons?i=spring)
-![Kotlin](https://skillicons.dev/icons?i=kotlin)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MariaDB](https://skillicons.dev/icons?i=mariadb)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![DynamoDB](https://skillicons.dev/icons?i=dynamodb)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![React](https://skillicons.dev/icons?i=react)
-![Angular](https://skillicons.dev/icons?i=angular)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Python](https://skillicons.dev/icons?i=py)
+<td align="center" width="33%">
 
-</div>
+### 🐧 Linux
+System administration, shell scripting and process management.
 
-<br>
+</td>
 
-<div align="center">
-  <img src="assets/duke.png" width="200" alt="Java Duke" />
-</div>
+<td align="center" width="33%">
 
-<br>
+### 🔒 Security
+Application security, secure coding and DevSecOps practices.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/guilherme-lima-5b9182297/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:guilimadev19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/glhrm.lima/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Networking Engineering
+Protocols, infrastructure and network analysis.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+### ⚙️ Operational Systems
+Linux internals, permissions and system architecture.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛡️ Incident Response
+Monitoring, detection and response strategies.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🖥️ System Administration
+Infrastructure management and server configuration.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<p align="center">
+<img 
+  src="https://skillicons.dev/icons?i=java,spring,kotlin,nestjs,ts,js,react,angular,tailwind,postgres,mysql,mongodb,sqlite,prisma,docker,git,linux&perline=9"
+/>
+</p>
+
+---
+
+<table width="100%">
+<tr>
+
+<td width="33%">
+<img 
+  src="https://giffiles.alphacoders.com/171/171475.gif" 
+  width="100%" 
+/>
+</td>
+
+<td width="33%">
+<img 
+  src="https://images.steamusercontent.com/ugc/2497890817561341989/3928F72A364433F94552C2FBDFFD38AD650771B2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" 
+  width="100%" 
+/>
+</td>
+
+<td width="33%">
+<img 
+  src="https://giffiles.alphacoders.com/171/171294.gif" 
+  width="100%" 
+/>
+</td>
+
+</tr>
+</table>
+
+
+---
+
+## Contact Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/guilherme-lima-5b9182297/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+<a href="mailto:guilimadev19@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=ffffff"/>
+</a>
+
+
+<a href="https://www.instagram.com/glhrm.lima/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
