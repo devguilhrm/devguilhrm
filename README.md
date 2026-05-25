@@ -17,6 +17,15 @@ incident response, and secure large-scale systems.
 
 Certified by **IBSEC** in Ethical Hacker, DevSecOps, CyberSecurity Awareness and APDP.
 
+<br/>
+
+<p align="left">
+  <a href="https://devguilhrm.netlify.app" target="_blank">
+    <img
+      src="https://img.shields.io/badge/%20Explore%20My%20Portfolio-9333EA?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0F0F0F"
+    />
+  </a>
+</p>
 </td>
 
 <td width="45%" align="right">
