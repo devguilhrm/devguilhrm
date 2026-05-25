@@ -19,15 +19,15 @@ Certified by **IBSEC** in Ethical Hacker, DevSecOps, CyberSecurity Awareness and
 
 <br/>
 
+<br/>
+
 <p align="left">
   <a href="https://devguilhrm.netlify.app" target="_blank">
     <img
-      src="https://img.shields.io/badge/%20Explore%20My%20Portfolio-9333EA?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0F0F0F"
+      src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=111111"
     />
   </a>
 </p>
-</td>
-
 <td width="45%" align="right">
 
 <img 
